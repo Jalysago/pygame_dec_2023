@@ -1,1 +1,2 @@
-# pygame_dec_2023
+# pygame Clone of Contra's First level.
+
